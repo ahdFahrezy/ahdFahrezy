@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Ahd Fahrezy
+# Hi 👋 I'm Ahmad Fahrezy
 
 ### Backend Engineer | Laravel Developer | PHP Enthusiast
 
